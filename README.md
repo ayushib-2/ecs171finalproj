@@ -17,3 +17,13 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 ## Dependencies
 * Languages: Python
 * Libraries: NumPy, pandas, Matplotlib, seaborn, collections, sklearn, Plotly
+
+## Usage
+### Models
+* Logistic Regression
+* SVM
+* Random Forest
+* Neural Network
+
+### How to run our model
+Run `python web.py` to launch the Flask server for the frontend on port 5000. Then, go to localhost:5000 to view it.
